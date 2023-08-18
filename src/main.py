@@ -1,2 +1,2 @@
-#make some changes. adding new.for develop. changes again
-
+def add (a,b):
+    return a + b
